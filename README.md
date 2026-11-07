@@ -63,18 +63,12 @@ This project forms a foundation for building secure authentication and authoriza
 ### Steps
 
 1. Clone the repository:  
-git clone https://github.com/keshavsoni166/OAuthIdentityProvider.git
-
-text
+`git clone https://github.com/keshavsoni166/OAuthIdentityProvider.git`
 2. Navigate into the project:  
-cd OAuthIdentityProvider
-
-text
+`cd OAuthIdentityProvider`
 3. Build and run the app:  
-mvn clean install
-mvn spring-boot:run
-
-text
+`mvn clean install`
+`mvn spring-boot:run`
 4. Open [http://localhost:9000](http://localhost:9000) to access the login page.
 
 ### Default Credentials
@@ -106,7 +100,7 @@ Use this server as an OAuth2 Authorization Server in your OAuth2/OpenID Connect 
 
 **Keshav Soni**  
 Backend Developer | Java | Spring Boot | Security  
-[LinkedIn](https://linkedin.com/in/keshavsoni166) | [GitHub](https://github.com/keshavsoni166)
+[LinkedIn](linkedin.com/in/keshav-soni-30687b1a7) | [GitHub](https://github.com/keshavsoni166)
 
 ---
 
